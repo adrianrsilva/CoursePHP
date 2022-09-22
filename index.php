@@ -24,6 +24,11 @@
                                Classes vs Objeto
                             </a>
                         </li>
+                        <li>
+                           <a href="exercicio.php?dir=poo&file=construtor_destrutor" target="blank">
+                               Construtor & Desconstrutor
+                            </a>
+                        </li>
                    </ul>                      
                 </div>        
                 <div class="modulo vermelho-escuro">
