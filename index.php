@@ -78,6 +78,16 @@
                         Traits 02
                      </a>
                   </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=magic_methods" target="blank">
+                        Métodos Mágicos
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=polimorfismo" target="blank">
+                       Polimorfismo
+                     </a>
+                  </li>
                </ul>
             </div>
             <div class="modulo vermelho-escuro">
