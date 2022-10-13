@@ -53,6 +53,31 @@
                         Interface 
                      </a>
                   </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=abstract" target="blank">
+                        Classe Abstrata 
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=desafio_7_erros" target="blank">
+                        Desafio 7 erros 
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=final" target="blank">
+                        Modificador Final
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=traits" target="blank">
+                        Traits
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=poo&file=traits_02" target="blank">
+                        Traits 02
+                     </a>
+                  </li>
                </ul>
             </div>
             <div class="modulo vermelho-escuro">
