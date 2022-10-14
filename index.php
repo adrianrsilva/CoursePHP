@@ -20,6 +20,36 @@
       <!-- main#principal + tab = id -->
       <div class="conteudo">
          <nav class="modulos">
+            <div class="modulo roxo-escuro">
+               <h3>9. Includes</h3>
+               <ul>
+                  <li>
+                     <a href="exercicio.php?dir=includes&file=include" target="blank">
+                        Include
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=includes&file=include_funcao" target="blank">
+                        Include Função
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=includes&file=include_require" target="blank">
+                        Include vs Require
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=includes&file=require_return" target="blank">
+                        Require & Return
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=includes&file=include_once" target="blank">
+                       Include Once
+                     </a>
+                  </li>
+               </ul>
+            </div>
             <div class="modulo azul-escuro">
                <h3>8. Orientação a Objetos</h3>
                <ul>
