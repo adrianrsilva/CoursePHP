@@ -20,6 +20,26 @@
       <!-- main#principal + tab = id -->
       <div class="conteudo">
          <nav class="modulos">
+            <div class="modulo laranja-escuro">
+               <h3>10. Namespace</h3>
+               <ul>
+                  <li>
+                     <a href="exercicio.php?dir=namespace&file=basico" target="blank">
+                       Exemplo Básico
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=namespace&file=sub_namespaces" target="blank">
+                       Sub_namespaces
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=namespace&file=use_as" target="blank">
+                       Use/As
+                     </a>
+                  </li>
+               </ul>
+            </div>
             <div class="modulo roxo-escuro">
                <h3>9. Includes</h3>
                <ul>
@@ -48,6 +68,10 @@
                        Include Once
                      </a>
                   </li>
+                  <li>
+                     <a href="exercicio.php?dir=includes&file=desafio" target="blank">
+                       Desafio do Módulo
+                     </a>
                </ul>
             </div>
             <div class="modulo azul-escuro">
