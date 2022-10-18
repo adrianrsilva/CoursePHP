@@ -20,6 +20,31 @@
       <!-- main#principal + tab = id -->
       <div class="conteudo">
          <nav class="modulos">
+            <div class="modulo verde">
+               <h3>11. Tratamento de Erros</h3>
+               <ul>
+                  <li>
+                     <a href="exercicio.php?dir=tratamento_erro&file=try_catch" target="blank">
+                       Try_Catch
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados" target="blank">
+                       Erros Personalizados
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=tratamento_erro&file=desafio_intidiv_teste" target="blank">
+                       Desafio IntDiv
+                     </a>
+                  </li>
+                  <li>
+                     <a href="exercicio.php?dir=tratamento_erro&file=error_handler" target="blank">
+                       Error Handler
+                     </a>
+                  </li>
+               </ul>
+            </div>
             <div class="modulo laranja-escuro">
                <h3>10. Namespace</h3>
                <ul>
